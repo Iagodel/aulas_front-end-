@@ -1,0 +1,39 @@
+p {
+    color: greenyellow;
+}
+
+h3 {
+    font-size: 25px;
+    color: magenta;
+}
+
+/* classe */
+.paragrafo {
+    background-color: cyan;
+    font-size: 20px;
+    color: white;
+}
+
+/* id */
+#texto_exclusivo {
+    background-color: black;
+    color: bisque;
+}
+
+/* exclusividade CSS*/
+
+#algun_titulo{
+    background-color: cornflowerblue;
+}
+
+.titulo{
+color: blueviolet;
+}
+
+h2 {
+    background-color: green !important; /* loucura */
+    color: white;
+}
+
+
+/* hexadecimal */
