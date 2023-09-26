@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans', sans-serif;
+    -webkit-font-smoothing: antialised;
+}
+
+:root {
+    --main-bg:#19A1AE;
+    --card-bg:white;   
+}
+
+body{
+    background: var(--main-bg);
+    height: 100vh;
+    /* vh = viewport-height*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    width: 100%;
+    max-width: 21.875rem;
+}
+
+section{
+    background:var(--card-bg) ;
+}
+.fundo-oval img{
+    border-radius: 0.9375rem 0.9375rem 0 0;
+    display: block;
+}

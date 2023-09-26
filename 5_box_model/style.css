@@ -1,0 +1,43 @@
+/* border */
+
+h1{
+    /* espessura, tipo (estilo) e a cor   */
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(94, 129, 168);
+}
+
+h1{
+    border: 5px solid rgb(94, 129, 168);
+}
+
+.texto {
+    border: 2px dashed red;
+}
+
+h1 {
+    width: 200px;
+}
+
+p{
+    width: 500px;
+}
+
+h1{
+    height: 100px;
+    text-align: center;
+}
+
+p{
+    height: 500px;
+}
+
+/* Padding = preenchimento*/
+h1 {
+    padding-top: 50px;
+}
+
+#titulo {
+    border: 2px solid blue;
+    width: fit-content;
+}
