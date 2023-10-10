@@ -1,0 +1,17 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    
+}
+
+.box {
+    width: 200px;
+    height: 150px;  
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    display: inline-table;
+}
+
